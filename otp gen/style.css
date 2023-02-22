@@ -1,0 +1,21 @@
+* {
+    background-color: rgb(221, 215, 205);
+}
+
+div {
+    border: 2px solid;
+    text-align: center;
+    padding: 3%;
+    background-color: rgb(157, 220, 220);
+}
+
+h2 {
+    text-align: center;
+    background-color: rgb(232, 202, 156);
+    font-style: italic;
+    border: 2px dotted rgb(196, 230, 144);
+}
+
+button {
+    background-color: rgb(235, 86, 115);
+}
